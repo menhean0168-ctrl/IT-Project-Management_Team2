@@ -1,0 +1,8 @@
+criterion,weight,build,buy_saas,hybrid,notes
+Learning value for the capstone,TODO,TODO,TODO,TODO,weights fixed before scoring
+Cost within the 200 USD cash budget,TODO,TODO,TODO,TODO,
+Time to the week-14 pilot,TODO,TODO,TODO,TODO,
+Fit to the 47 functional requirements,TODO,TODO,TODO,TODO,
+Weight check,"=SUM(B2:B5)",,,,must equal 100
+Weighted score,,"=SUMPRODUCT($B$2:$B$5,C2:C5)",copy C7 to D7 and E7,,
+Percent of maximum,,"=C7/(5*$B$6)",copy C8 to D8 and E8,,
