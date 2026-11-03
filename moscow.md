@@ -1,6 +1,6 @@
 # MoSCoW rating for the week-14 pilot · Realtime Quiz
 
-Test order: Must = pilot cancelled or unlawful without it; Should = painful but a workaround exists for one pilot; Could = nice to have, first to drop; Won't = explicitly not in this pilot.
+ Test order: Must = pilot cancelled or unlawful without it; Should = painful but a workaround exists for one pilot; Could = nice to have, first to drop; Won't = explicitly not in this pilot.
 
 | Id | Feature | Plan | Mine | h | Justification |
 |----|---------|------|------|---|---------------|
