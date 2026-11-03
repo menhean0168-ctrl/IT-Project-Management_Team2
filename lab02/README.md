@@ -13,7 +13,12 @@
 | lab02/change-requests.md | Task 4: three change requests |
 | lab02/constraints-assumptions-log.md | Task 5: constraints and assumptions |
 | lab02/trade-off-memo.md | Task 5: one-page memo |
+| lab02/negotiation-script.md | Challenge: negotiation script with data sheet |
+| lab02/decision-record-DR-01.md | Challenge: decision record for the open-day demo scope |
 | lab02/README.md | This file |
+
+## Decisions
+- DR-01: open-day demo scope, week 10 (lab02/decision-record-DR-01.md)
 
 ## Inputs reused
 | Path | Version or tag |
@@ -25,3 +30,4 @@
 | Date | Version | Change |
 |------|---------|--------|
 | 2026-11-03 | 0.1 | Lab-02: constraint analysis, MoSCoW, scoring, CR analysis, log, memo added; scope baseline pending sponsor decision on CR-03 |
+| 2026-11-03 | 0.2 | Challenge: DR-01 approved; new scope baseline: F09 and F10 at the W10 open-day demo, F11 and F12 at the W14 pilot, no Could work before W11 |
