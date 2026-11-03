@@ -18,10 +18,10 @@
 ## Inputs reused
 | Path | Version or tag |
 |------|----------------|
-| lab01/charter.md | TODO |
-| lab01/stakeholders.md | TODO |
+| lab01/charter.md | v0.1 (Lab-01 submission) | |
+| lab01/stakeholders.md | v0.1 (Lab-01 submission) | |
 
 ## Change log
 | Date | Version | Change |
 |------|---------|--------|
-| TODO | 0.1 | Lab-02: constraint analysis, MoSCoW, scoring, CR analysis, log, memo added; scope baseline pending sponsor decision on CR-xx |
+| 2026-11-03 | 0.1 | Lab-02: constraint analysis, MoSCoW, scoring, CR analysis, log, memo added; scope baseline pending sponsor decision on CR-03 |
