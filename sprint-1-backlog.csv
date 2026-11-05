@@ -1,0 +1,4 @@
+id,item,fr_ids,priority,points,owner,acceptance_criteria
+B-01,Project skeleton with CI,-,Must,3,A,"Given a clone, when mvnw verify runs, then green"
+B-02,Register with email and role,FR-A1,Must,3,B,"Given valid data, when I register, then I can log in"
+B-03,TODO,TODO,Must,TODO,TODO,"Given TODO, when TODO, then TODO"
